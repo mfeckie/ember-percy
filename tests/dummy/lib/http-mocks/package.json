@@ -1,0 +1,7 @@
+{
+  "name": "ember-cli-testem-http-mocks",
+  "version": "0.1.0",
+  "keywords": [
+    "ember-addon"
+  ]
+}
